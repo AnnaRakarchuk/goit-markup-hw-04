@@ -260,9 +260,6 @@ img {
 .container-icon {
   padding: 25px 100px;
   margin-bottom: 30px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   background-color: var(--secondary-bg-cl);
   border-radius: 4px;
 }
@@ -475,9 +472,6 @@ img {
 }
 
 .join-title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   margin-bottom: 20px;
 
   font-weight: 700;
